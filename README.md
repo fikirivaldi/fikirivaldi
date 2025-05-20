@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="" alt="Fiki Rivaldi Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Fiki Rivaldi</h1>
 <h3 align="center">🚀 Mobile & iOS Developer | Passionate about building great user experiences</h3>
