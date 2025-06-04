@@ -18,7 +18,7 @@ Building seamless cross-platform mobile apps using:
 
 - ⚡ Flutter for blazing-fast UIs
 - ⚛️ React Native for multi-platform support
-- 🍎 iOS app development with Swift/Flutter
+- 🍎 iOS app development with Swift/SwiftUI
 - 🤖 Native Android (Java/Kotlin)
 
 ---
